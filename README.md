@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Hobby Project<br>🌱 Still Learning<br>💬 Trying my Best<br>⚡ Code | Game | Sleep | Eat | Repeat
+⚡ Code | Game | Sleep | Eat | Repeat
 
 
 ## 🌐 Socials:
