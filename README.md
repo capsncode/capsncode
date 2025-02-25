@@ -157,5 +157,5 @@ I'm always open to collaboration and discussion about data analysis. Feel free t
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/capsncode) 
 
 <div align="center">
-  <sub>Built with ❤️ by **@capsncode**</sub>
+  <sub>Built with ❤️ by @capsncode</sub>
 </div>
