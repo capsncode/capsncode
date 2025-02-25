@@ -34,9 +34,9 @@ This repository serves as a showcase of my data analysis projects, demonstrating
     B --> B2[Association Rules]
     B --> B3[Visualization]
     
-    C --> C1[Team Performance]
+    C --> C1[Team Statistics]
     C --> C2[Player Statistics]
-    C --> C3[Hero Trends]
+    C --> C3[Hero Statistics]
     C --> C4[Team Standings]
     
     style A fill:#f9f9f9,stroke:#333,stroke-width:2px
