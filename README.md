@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![Repository Banner](https://raw.githubusercontent.com/capsncode/data-analysis-portfolio/main/assets/banner.svg)
+# Bryan Jade
 
   [![GitHub last commit](https://img.shields.io/github/last-commit/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio/commits/main)
   [![GitHub repo size](https://img.shields.io/github/repo-size/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio)
