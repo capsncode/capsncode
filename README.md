@@ -36,7 +36,8 @@ This repository serves as a showcase of my data analysis projects, demonstrating
     
     C --> C1[Team Performance]
     C --> C2[Player Statistics]
-    C --> C3[Seasonal Trends]
+    C --> C3[Hero Trends]
+    C --> C4[Team Standings]
     
     style A fill:#f9f9f9,stroke:#333,stroke-width:2px
     style B fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
