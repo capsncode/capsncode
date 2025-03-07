@@ -3,7 +3,7 @@
   
 # Bryan Jade
 
- <--! [![GitHub last commit](https://img.shields.io/github/last-commit/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio/commits/main)
+ <!-- [![GitHub last commit](https://img.shields.io/github/last-commit/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio/commits/main)
   [![GitHub repo size](https://img.shields.io/github/repo-size/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio)
   [![GitHub issues](https://img.shields.io/github/issues/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio/issues)
   [![GitHub stars](https://img.shields.io/github/stars/capsncode/data-analysis-portfolio)](https://github.com/capsncode/data-analysis-portfolio/stargazers) -->
