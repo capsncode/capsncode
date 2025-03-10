@@ -125,7 +125,7 @@ I'm always open to collaboration and discussion about data analysis. Feel free t
 - 💼 LinkedIn: [Bryan Jade Capillo](https://www.linkedin.com/in/bryan-jade-capillo)
 - 🐙 GitHub: [@capsncode](https://github.com/capsncode)
 
-<--! 
+<!-- 
 ## 📊 Repository Activity
 
  <div align="center">
