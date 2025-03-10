@@ -127,7 +127,7 @@ I'm always open to collaboration and discussion about data analysis. Feel free t
 
 ## 📊 Repository Activity
 
-<div align="center">
+<--! <div align="center">
   
   ```mermaid
   gitGraph
@@ -150,7 +150,7 @@ I'm always open to collaboration and discussion about data analysis. Feel free t
     commit id: "Add interactive dashboards"
   ```
   
-</div>
+</div> -->
 
 ---
 
