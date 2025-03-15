@@ -101,9 +101,8 @@ Statistical analysis of MPL Philippines data to identify performance patterns, p
 - Meta trends and hero selection patterns
 
 #### Technologies Used
-- Python for statistical analysis
-- Tableau for interactive visualizations
-- Excel for data cleaning and preliminary analysis
+- Looker for interactive visualizations
+- Google Spreadsheets for data cleaning and preliminary analysis
 
 </details>
 
